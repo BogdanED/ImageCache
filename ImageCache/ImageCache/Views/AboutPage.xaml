@@ -45,12 +45,12 @@
                         Command="{Binding OpenWebCommand}"
                         BackgroundColor="{StaticResource Primary}"
                         TextColor="White" />
-                <Image>
+                <!--<Image>
                     <Image.Source>
                         <UriImageSource Uri="https://image.webcamromania.ro/camera/045/snap/cam_share.1655814608.jpg"
                         CacheValidity="00:00:01.0" />
                     </Image.Source>
-                </Image>
+                </Image>-->
             </StackLayout>
         </ScrollView>
     </Grid>
